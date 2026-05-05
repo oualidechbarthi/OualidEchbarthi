@@ -1,4 +1,4 @@
-# Salut, je suis Oualid Echbarthi 👋
+# Bonjour, je suis Oualid Echbarthi 👋
 
 🎓 Étudiant Ingénieur en Informatique & Réseaux à l'EMSI Tanger  
 ☁️ Technicien Spécialisé Cloud Computing | Microsoft Azure · Infrastructure IT  
