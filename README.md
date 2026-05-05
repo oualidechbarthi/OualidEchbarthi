@@ -22,5 +22,5 @@ de modèles LLM sur Azure lors de mon stage chez MX4.AI à Rabat.
 | 🗳️ Vote Électronique | PHP | Application web de gestion d'élections |
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oualid-echbarthi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oualid-echbarthi-10880b313/)
 ✉️ oualidchbarthi@gmail.com
